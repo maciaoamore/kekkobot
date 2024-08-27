@@ -8,7 +8,7 @@ global.confirmCode = ""
 
 global.owner = [
   ['+39 3716876691', '𝐃𝚲𝐍💋', true],
-  ['+1 (276) 633-8591', 'dan²', true]
+  ['+1 2766338591', 'dan²', true]
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],
